@@ -1,4 +1,4 @@
-## Hi, I'm Leotime Channel!
+# Hi, I'm Leotime Channel!
 I mainly code in Scratch and Python. You can find various projects of mine here.
 
 <img width="400" height="400" alt="Leotime Channel Main Logo (2025)" src="https://github.com/user-attachments/assets/1d992948-4784-4d14-9a91-f8fdc17d91e4" />
