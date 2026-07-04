@@ -5,7 +5,7 @@ I mainly code in Scratch and Python. You can find various projects of mine here.
 
 ## Major projects
 - [Compressr](sites.google.com/compressr): An easy-to-use media compressor for macOS
-- ScratchBit: A powerful module for Scratch projects that saves and loads images (coming soon)
+- [ScratchBit](https://github.com/leotimechannelorg/ScratchBit): A powerful module for Scratch projects that saves and loads images (coming soon)
 - [Christmas Tree Creator](https://scratch.mit.edu/projects/351277734/): Extremely capable Christmas Tree designer in Scratch
 - [Leotime Channel Featured](https://scratch.mit.edu/studios/27364550/): 25 of our best Scratch projects, all in one studio!
 
